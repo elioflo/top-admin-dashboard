@@ -1,0 +1,11 @@
+:root {
+    
+}
+
+
+$min-tablet: 426px;
+$min-laptop: 769px;
+$min-desktop: 1025px;
+$tablet: "(min-width: #{$min-tablet})";
+$laptop: "(min-width: #{$min-laptop})";
+$desktop: "(min-width: #{$min-desktop})";
